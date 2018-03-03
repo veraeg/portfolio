@@ -1,0 +1,44 @@
+div{
+	
+display:inline-block;
+
+} 
+.row {
+	  position:absolute;
+    top:20%;
+    left:5%;
+    bottom:0;
+    right:0;
+    height:100%;
+    width:100%;
+	
+} 
+body {
+	background-color:black;
+	color:white;
+	
+} 
+img {
+	transform: perspective( 750px ) rotateY( 40deg );
+	border:5px solid gray;
+cursor:pointer;
+width:80%;
+	}
+ul {
+	font-family:Arial Black; 
+	font-size: 55px;
+	color:white;
+	list-style-type:none;
+}  
+a:hover {
+	text-decoration: line-through;
+	text-decoration-color: black;
+	color:white;
+} 
+a {
+	color:white;
+}
+#divv{
+	
+
+}
