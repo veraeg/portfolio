@@ -67,3 +67,11 @@ $(document).ready(function(){
 	
 })
 })
+
+$(document).ready(function(){
+var para=$(".text p"); 
+para.addClass("hidden");
+para.each(function(index){
+	$(this).delay(800*index).fadeTo(1000,1);
+})
+})

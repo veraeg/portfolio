@@ -166,7 +166,10 @@ top:620px;
 	top:186px;
 	float: left;
 	font-size:17px;
+
 }
+
+
 .text p:nth-child(odd){
 	
 	background-color: #AEFFF7; //#7CFFF7;
