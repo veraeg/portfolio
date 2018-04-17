@@ -256,3 +256,23 @@ html { height: 100%; }
 #screen2{
 	color:#31F7E2;
 } 
+
+
+#projects {
+	border-top:1px solid gray;
+	width:100%;
+	
+	height: 600px;
+} 
+
+#projects h2 {
+	color:black !important;
+} 
+
+#projects img {
+
+position: relative;
+top:150px;
+left:40px;
+height:300px;
+} 
